@@ -1,6 +1,7 @@
 # repository
 ## 🖥️ project
-Este é um projeto feito no decorrer do curso da DNC <img src="https://yt3.googleusercontent.com/sFLjVpQMMWIp_xAo-v9pateG0kmivimEDw_CD-RIh8dTO9DRfV4E6Jxg9PHzbyfAFbs-v_E-gw=s900-c-k-c0x00ffffff-no-rj" scale=0.2>
+Este é um projeto feito no decorrer do curso da DNC ![DNC logo](https://yt3.googleusercontent.com/sFLjVpQMMWIp_xAo-v9pateG0kmivimEDw_CD-RIh8dTO9DRfV4E6Jxg9PHzbyfAFbs-v_E-gw=s900-c-k-c0x00ffffff-no-rj)
+
 
 ## 🚀Tecnologias
 Esse projeto foi desenvolvido durante a NLW da Rocketseat com as seguintes tecnologias;
