@@ -1,6 +1,6 @@
 # repository
 ## 🖥️ project
-Este é um projeto feito no decorrer do curso da DNC ![DNC logo](https://yt3.googleusercontent.com/sFLjVpQMMWIp_xAo-v9pateG0kmivimEDw_CD-RIh8dTO9DRfV4E6Jxg9PHzbyfAFbs-v_E-gw=s900-c-k-c0x00ffffff-no-rj)
+Este é um projeto feito no decorrer do curso da DNC <img src="https://theme.zdassets.com/theme_assets/10581808/55574aacd1b8552926cee18e21442964c7a8d53f.png" alt="DNC logo" width="80px">
 
 
 ## 🚀Tecnologias
