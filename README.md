@@ -1,6 +1,7 @@
 # repository
 ## 🖥️ project
-Este é um projeto feito no decorrer do curso da DNC <img src="https://www.escoladnc.com.br/wp-content/uploads/2022/05/thumb_prov_site.png" alt="DNC logo" width="80px">
+Este é um projeto feito no decorrer do curso da DNC<br>
+<img src="https://www.escoladnc.com.br/wp-content/uploads/2022/05/thumb_prov_site.png" alt="DNC logo" width="80px">
 
 
 ## 🚀Tecnologias
